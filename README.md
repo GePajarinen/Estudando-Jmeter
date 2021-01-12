@@ -52,4 +52,4 @@ Url utilizada no teste: http://www.dneonline.com/calculator.asmx?op=Add
 <br>
 
 Imagem do último teste:   
-<img src="https://git.gft.com/gege/estudando-jmeter/-/raw/a375fbd596713786cb88b73669b53882903f25f5/img/%C3%BAltimo%20teste.png" width="600">
+<img src="https://github.com/GePajarinen/Estudando-Jmeter/blob/master/img/%C3%BAltimo%20teste.png?raw=true" width="600">
